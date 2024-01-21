@@ -6,7 +6,7 @@ GitHub Repositories Showcase is a web application developed using HTML, CSS, Jav
 ## Features
 
 - **User Profile Display:** View the user's profile information, including their avatar, name, bio, followers, and following.
-
+- 
 - **Repository Showcase:** Display a paginated list of repositories for the given GitHub username.
 - 
 - **Number of Repository per page:** Users can easily customize the number of repositories displayed on each page .
@@ -14,6 +14,7 @@ GitHub Repositories Showcase is a web application developed using HTML, CSS, Jav
 - **Search Repositories:** Search for specific repositories based on their names.
 
 - **Pagination:** Navigate through the user's repositories with a simple pagination feature.
+- **Responsive:** It is Fully responsive so users can use this website on small devices without any problem.
 
 ## Usage
 
