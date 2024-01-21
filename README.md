@@ -12,8 +12,6 @@ GitHub Repositories Showcase is a web application developed using HTML, CSS, Jav
 
 - **Pagination:** Navigate through the user's repositories with a simple pagination feature.
 
-- **Dark Mode:** Enjoy a dark mode for a more comfortable browsing experience.
-
 ## Usage
 
 1. Enter a GitHub username in the provided input field.
@@ -23,10 +21,8 @@ GitHub Repositories Showcase is a web application developed using HTML, CSS, Jav
 ## Screenshots
 
 ![Screenshot 1](./reposhowcase.png)
-*Caption for Screenshot 1.*
+*Interface of the website , YOu can search , filter and added pagination as well*
 
-![Screenshot 2](path/to/screenshot2.png)
-*Caption for Screenshot 2.*
 
 ## Getting Started
 
